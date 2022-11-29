@@ -1,8 +1,14 @@
 ![Header](https://github.com/Openpalms/openpalms/blob/main/assets/giphy.gif)
 
-Here are some ideas to get you started:
+## Hey, I'm Daniil 👋
 
-- 🔭 I’m currently working on ...
+### Tools I use:
+
+![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
+![Javascript](https://img.shields.io/badge/Javascript-orange?style=for-the-badge&logo=javascript)
+
+<!-- Here are some ideas to get you started: -->
+<!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
