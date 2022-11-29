@@ -5,7 +5,10 @@
 ### Tools I use:
 
 ![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
-![Javascript](https://img.shields.io/badge/Javascript-orange?style=for-the-badge&logo=javascript)
+![Javascript](https://img.shields.io/badge/Javascript-blue?style=for-the-badge&logo=javascript)
+![Redux](https://img.shields.io/badge/Redux-blue?style=for-the-badge&logo=Redux)
+![Firebase](https://img.shields.io/badge/Firebase-blue?style=for-the-badge&logo=Firebase)
+![MongoDB](https://img.shields.io/badge/MongoDB-blue?style=for-the-badge&logo=MongoDB)
 
 <!-- Here are some ideas to get you started: -->
 <!-- - 🔭 I’m currently working on ...
