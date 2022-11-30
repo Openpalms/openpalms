@@ -2,7 +2,7 @@
 
 ## Hey, I'm Daniil 👋
 
-![Codewars](https://www.codewars.com/users/Openpalms/badges/large/?viewBox="0,0,495,40") <br>
+[![Codewars](https://www.codewars.com/users/Openpalms/badges/large/?viewBox="0,0,495,40")](https://www.codewars.com/users/Openpalms)
 
 ### Tools I use:
 
