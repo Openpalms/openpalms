@@ -13,9 +13,6 @@
 ![Redux](https://img.shields.io/badge/Redux-blue?style=for-the-badge&logo=Redux)
 ![Firebase](https://img.shields.io/badge/Firebase-blue?style=for-the-badge&logo=Firebase)
 ![MongoDB](https://img.shields.io/badge/MongoDB-blue?style=for-the-badge&logo=MongoDB)
-
-### Currently learning
-
 ![Typescript](https://img.shields.io/badge/Typescript-black?style=for-the-badge&logo=Typescript)
 
 ### Let's get in touch!
