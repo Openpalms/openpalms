@@ -12,9 +12,3 @@
 ![Firebase](https://img.shields.io/badge/Firebase-blue?style=for-the-badge&logo=Firebase)
 ![MongoDB](https://img.shields.io/badge/MongoDB-blue?style=for-the-badge&logo=MongoDB)
 ![Typescript](https://img.shields.io/badge/Typescript-blue?style=for-the-badge)
-
-### Let's get in touch!
-
-[![Telegram](https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram)](https://t.me/ga104kin)
-
-
